@@ -52,8 +52,8 @@ Order Functionality
 When a user clicks the Order Now button, a confirmation message is displayed for the selected food item.
 Contact Form
 The contact form collects:
-Rajeswari Botcha 
-rajeswaribotcha60@gmail.com 
+Hemalatha Mamidi
+hemalathamamidi77@gmail.com
 🎯 Project Objective
 The main objective of this project is to create a professional and user-friendly restaurant website using front-end web technologies.
 This project helped me improve my skills in:
