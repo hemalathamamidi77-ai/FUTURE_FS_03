@@ -107,7 +107,5 @@ This project helped me improve my skills in:
 ## 👩‍💻 Developed By
 
 **Hemalatha Mamidi**  
-**B.Tech – Data Science**
-
-📧 Email: **hemalathamamidi77@gmail.com**
+**hemalathamamidi77@gmail.com**
 
