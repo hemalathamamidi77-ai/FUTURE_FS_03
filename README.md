@@ -4,7 +4,6 @@
 Royal Spice is a modern and responsive restaurant website developed as part of Task 3 of my Future Intern internship.
 
 The website provides an attractive online presence for a restaurant, allowing users to explore the restaurant, view special dishes, place sample orders, and send inquiries through a contact form.
-
 🌐 Live Demo
 ✨ Features
 🏠 Modern and attractive home/hero section
@@ -74,5 +73,5 @@ Customer reviews and ratings
 Backend database integration
 User login and registration
 👩‍💻 Developed By
-HemaLatha Mamidi
-B.Tech – Data Science
+ HemaLatha Mamidi
+ B.Tech – Data Science
