@@ -6,9 +6,6 @@ Royal Spice is a modern and responsive restaurant website developed as part of T
 The website provides an attractive online presence for a restaurant, allowing users to explore the restaurant, view special dishes, place sample orders, and send inquiries through a contact form.
 
 🌐 Live Demo
-🔗 Live Website:
-https://rajeswaribotcha60-ops.github.io/FUTURI/
-
 ✨ Features
 🏠 Modern and attractive home/hero section
 🧭 Responsive navigation bar
